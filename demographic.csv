@@ -1,0 +1,242 @@
+﻿MainBranch,Age,Gender,Country,SocialMedia,LanguageWorkedWith,DatabaseWorkedWith,PlatformWorkedWith,WebFrameWorkedWith,DevEnviron,id
+I am a developer by profession,22,Man,United States,Reddit,C,MySQL,Linux,jQuery,Eclipse,1
+I am a developer by profession,23,Man,New Zealand,Twitter,Bash/Shell/PowerShell,DynamoDB,AWS,Express,Vim,2
+I am a developer by profession,28,Man,United States,Twitter,C#,PostgreSQL,Docker,Ruby on Rails,,3
+I am a developer by profession,26,Man,United Kingdom,YouTube,C++,SQLite,Windows,,Vim,4
+I am a developer by profession,29,Man,Australia,YouTube,C#,,,,Visual Studio,5
+I am a developer by profession,31,Man,Brazil,WhatsApp,Bash/Shell/PowerShell,Couchbase,Android,Angular/Angular.js,Vim,6
+I am a developer by profession,47,Man,United States,Instagram,JavaScript,Firebase,Docker,Express,Visual Studio Code,7
+I am a developer by profession,22,Man,United States,Reddit,PHP,MySQL,IBM Cloud or Watson,jQuery,Xcode,8
+I am a developer by profession,23,Man,Israel,Reddit,SQL,,iOS,Vue.js,,9
+I am a developer by profession,22,Man,South Africa,YouTube,TypeScript,,Linux,,,10
+I am a developer by profession,34,Man,United States,I don't use social media,,,MacOS,,,11
+I am a developer by profession,32,Man,United States,Reddit,,,Microsoft Azure,,,12
+I am a developer by profession,21,Man,United States,YouTube,Bash/Shell/PowerShell,MongoDB,,Angular/Angular.js,Visual Studio,13
+I am a developer by profession,44,Man,Czech Republic,I don't use social media,C#,Microsoft SQL Server,,ASP.NET,Visual Studio Code,14
+I am a developer by profession,42,Man,United States,Reddit,HTML/CSS,MySQL,,jQuery,,15
+I am a developer by profession,27,Man,Spain,WhatsApp,JavaScript,,,,,16
+I am a developer by profession,43,Man,Germany,Twitter,TypeScript,,,,,17
+I am a developer by profession,34,Man,Serbia,I don't use social media,VBA,,,,,18
+I am a developer by profession,23,Man,India,YouTube,Bash/Shell/PowerShell,MongoDB,Arduino,Angular/Angular.js,IntelliJ,19
+I am a developer by profession,37,Man,Sweden,YouTube,JavaScript,,Heroku,Spring,,20
+I am a developer by profession,33,Man,China,YouTube,TypeScript,,Raspberry Pi,,,21
+I am a developer by profession,27,Man,United States,Twitter,,,,,,22
+I am a developer by profession,34,Man,United States,Reddit,C#,DynamoDB,Android,Angular/Angular.js,Vim,23
+I am a developer by profession,19,Man,Netherlands,Reddit,HTML/CSS,Firebase,AWS,ASP.NET,Visual Studio Code,24
+I am a developer by profession,29,Man,India,WhatsApp,JavaScript,MySQL,,jQuery,,25
+I am a developer by profession,42,Man,United States,YouTube,SQL,SQLite,,React.js,,26
+I am a developer by profession,21,Woman,Philippines,Facebook,TypeScript,,,,,27
+I am a developer by profession,24,Man,Ireland,WhatsApp,Bash/Shell/PowerShell,Elasticsearch,Android,Angular/Angular.js,Android Studio,28
+I am a developer by profession,27,Woman,India,YouTube,C#,MariaDB,Docker,ASP.NET,Visual Studio,29
+I am a developer by profession,32,Man,United Kingdom,Facebook,HTML/CSS,MongoDB,Windows,jQuery,Visual Studio Code,30
+I am a developer by profession,25,Man,India,YouTube,Java,Microsoft SQL Server,WordPress,,,31
+I am a developer by profession,24,Man,United Kingdom,I don't use social media,Bash/Shell/PowerShell,Elasticsearch,Docker,Angular/Angular.js,Sublime Text,32
+I am a developer by profession,22,Man,India,Twitter,C++,MySQL,Linux,Ruby on Rails,Visual Studio,33
+I am a developer by profession,26,Man,Pakistan,WhatsApp,HTML/CSS,Oracle,Raspberry Pi,,Visual Studio Code,34
+I am a developer by profession,36,Man,Brazil,WhatsApp,Python,,,,,35
+I am a developer by profession,25,Man,India,Twitter,Ruby,,,,,36
+I am a developer by profession,35,Man,Austria,WhatsApp,SQL,,,,,37
+I am a developer by profession,27,Man,United Kingdom,Reddit,TypeScript,,,,,38
+I am a developer by profession,30,Man,United States,Reddit,Bash/Shell/PowerShell,Oracle,Docker,React.js,Visual Studio Code,39
+I am a developer by profession,39,Woman,Canada,Twitter,JavaScript,,,,,40
+I am a developer by profession,37,Man,United States,I don't use social media,HTML/CSS,Firebase,AWS,Express,Visual Studio Code,41
+I am a developer by profession,29,Man,India,YouTube,JavaScript,MongoDB,WordPress,jQuery,,42
+I am a developer by profession,41,Man,Croatia,YouTube,PHP,MySQL,,React.js,,43
+I am a developer by profession,26,Man,United States,Reddit,TypeScript,,,,,44
+I am a developer by profession,54,Man,United States,Twitter,HTML/CSS,MySQL,Linux,Angular/Angular.js,Visual Studio Code,45
+I am a developer by profession,26,Man,Canada,Reddit,JavaScript,,Windows,jQuery,,46
+I am a developer by profession,21,Man,Sweden,YouTube,PHP,,,Laravel,,47
+I am a developer by profession,31,Man,Spain,Twitter,SQL,,,,,48
+I am a developer by profession,38,Man,United States,Facebook,TypeScript,,,,,49
+I am a developer by profession,26,Man,Italy,Reddit,Bash/Shell/PowerShell,Microsoft SQL Server,AWS,Angular/Angular.js,Notepad++,50
+I am a developer by profession,28,Man,Pakistan,Facebook,C++,MySQL,Docker,ASP.NET,Sublime Text,51
+I am a developer by profession,26,Man,South Africa,Instagram,C#,Redis,Linux,Drupal,Vim,52
+I am a developer by profession,27,Man,India,LinkedIn,HTML/CSS,SQLite,MacOS,Express,Visual Studio,53
+I am a developer by profession,32,Man,United States,WhatsApp,JavaScript,,Microsoft Azure,jQuery,Xcode,54
+I am a developer by profession,23,Man,Brazil,Twitter,Bash/Shell/PowerShell,Firebase,,Express,Visual Studio Code,55
+I am a developer by profession,32,Man,Russian Federation,,JavaScript,MongoDB,,jQuery,,56
+I am a developer by profession,24,Man,United States,Reddit,SQL,MySQL,,React.js,,57
+I am a developer by profession,25,Man,India,YouTube,Bash/Shell/PowerShell,MongoDB,,Express,Atom,58
+I am a developer by profession,47,Man,Germany,WhatsApp,HTML/CSS,PostgreSQL,,Flask,Vim,59
+I am a developer by profession,,Man,Argentina,Twitter,C#,Microsoft SQL Server,Windows,ASP.NET,Notepad++,60
+I am a developer by profession,28,Woman,United States,Instagram,HTML/CSS,,,jQuery,Visual Studio,61
+I am a developer by profession,34,Man,Romania,YouTube,JavaScript,,,,,62
+I am a developer by profession,34,Man,Germany,Twitter,SQL,,,,,63
+I am a developer by profession,25,Man,United States,Facebook,C#,Microsoft SQL Server,AWS,Angular/Angular.js,Notepad++,64
+I am a developer by profession,29,Man,Austria,WhatsApp,JavaScript,PostgreSQL,Docker,ASP.NET,Sublime Text,65
+I am a developer by profession,35,Man,South Africa,,SQL,Redis,Kubernetes,jQuery,Vim,66
+I am a developer by profession,32,Woman,Iran,Instagram,TypeScript,SQLite,Linux,,Visual Studio,67
+I am a developer by profession,47,Man,United Kingdom,YouTube,,,Microsoft Azure,,Visual Studio Code,68
+I am a developer by profession,30,Man,United States,Twitter,,,Windows,,,69
+I am a developer by profession,31,Man,Germany,Facebook,C++,Firebase,Android,ASP.NET,Android Studio,70
+I am a developer by profession,24,Man,India,WhatsApp,C#,MySQL,Arduino,Django,Visual Studio,71
+I am a developer by profession,31,Man,India,Facebook,HTML/CSS,Oracle,iOS,Spring,Visual Studio Code,72
+I am a developer by profession,22,Man,Australia,VK –í–ö–æ–Ω—Ç–∞ÃÅ–∫—Ç–µ,Java,SQLite,MacOS,,,73
+I am a developer by profession,35,Man,United States,Reddit,JavaScript,,Raspberry Pi,,,74
+I am a developer by profession,29,Woman,Argentina,Twitter,Objective-C,,Slack,,,75
+I am a developer by profession,30,Man,Hungary,Reddit,SQL,,Windows,,,76
+I am a developer by profession,29,Man,Latvia,Reddit,,,WordPress,,,77
+I am a developer by profession,28,Man,United Kingdom,WhatsApp,Bash/Shell/PowerShell,Oracle,Linux,Spring,IntelliJ,78
+I am a developer by profession,28,Man,Hong Kong (S.A.R.),Instagram,C#,Other(s):,Windows,Vue.js,Visual Studio,79
+I am a developer by profession,27,Man,United Arab Emirates,Facebook,HTML/CSS,,,,Visual Studio Code,80
+I am a developer by profession,27,Man,United States,Twitter,Java,,,,,81
+I am a developer by profession,28,Man,Poland,Reddit,JavaScript,,,,,82
+I am a developer by profession,29,Man,Poland,Twitter,Bash/Shell/PowerShell,Cassandra,Android,Angular/Angular.js,Android Studio,83
+I am a developer by profession,40,Man,France,Twitter,HTML/CSS,DynamoDB,Arduino,Django,IntelliJ,84
+I am a developer by profession,45,Man,Canada,YouTube,JavaScript,MariaDB,Docker,Spring,Vim,85
+I am a developer by profession,34,Man,Hong Kong (S.A.R.),Twitter,PHP,MongoDB,Linux,,Visual Studio Code,86
+I am a developer by profession,33,Man,United States,Reddit,Python,PostgreSQL,Slack,,,87
+I am a developer by profession,30,Man,United States,Instagram,SQL,,Windows,,,88
+I am a developer by profession,30,Man,Netherlands,WhatsApp,TypeScript,,,,,89
+I am a developer by profession,41,Man,United Arab Emirates,WhatsApp,Bash/Shell/PowerShell,Elasticsearch,Arduino,Django,Notepad++,90
+I am a developer by profession,35,Man,Bulgaria,Reddit,C,Firebase,AWS,Express,Visual Studio Code,91
+I am a developer by profession,36,Man,Netherlands,YouTube,C++,MariaDB,Heroku,Flask,,92
+I am a developer by profession,39,Man,United States,Facebook,HTML/CSS,MongoDB,Linux,jQuery,,93
+I am a developer by profession,,Man,India,Facebook,Java,MySQL,MacOS,,,94
+I am a developer by profession,23,Woman,Russian Federation,VK –í–ö–æ–Ω—Ç–∞ÃÅ–∫—Ç–µ,JavaScript,Oracle,Raspberry Pi,,,95
+I am a developer by profession,28,Man,United States,Twitter,PHP,SQLite,WordPress,,,96
+I am a developer by profession,33,Woman,United States,Twitter,Python,Other(s):,,,,97
+I am a developer by profession,31,Man,Nicaragua,WhatsApp,SQL,,,,,98
+I am a developer by profession,32,Man,United States,Facebook,Bash/Shell/PowerShell,DynamoDB,AWS,Angular/Angular.js,IntelliJ,99
+I am a developer by profession,45,Man,Sweden,Facebook,HTML/CSS,MySQL,Docker,Spring,Visual Studio Code,100
+I am a developer by profession,31,Man,India,Twitter,Java,Oracle,,,,101
+I am a developer by profession,32,Man,Canada,Reddit,JavaScript,Redis,,,,102
+I am a developer by profession,35,Man,Sweden,YouTube,PHP,,,,,103
+I am a developer by profession,33,Man,United States,Instagram,SQL,,,,,104
+I am a developer by profession,33,Man,Austria,I don't use social media,TypeScript,,,,,105
+I am a developer by profession,24,Man,Hong Kong (S.A.R.),WhatsApp,Bash/Shell/PowerShell,Elasticsearch,Docker,Django,IntelliJ,106
+I am a developer by profession,27,Man,United Kingdom,Facebook,HTML/CSS,Firebase,Linux,React.js,PyCharm,107
+I am a developer by profession,28,Man,Germany,Reddit,JavaScript,PostgreSQL,MacOS,,Sublime Text,108
+I am a developer by profession,41,Man,Australia,WhatsApp,Python,SQLite,,,Vim,109
+I am a developer by profession,31,Man,Denmark,Snapchat,,,,,,110
+I am a developer by profession,27,Man,United Kingdom,Instagram,Bash/Shell/PowerShell,MySQL,Heroku,Spring,IntelliJ,111
+I am a developer by profession,24,Man,United States,Snapchat,HTML/CSS,Oracle,,,Visual Studio Code,112
+I am a developer by profession,25,Man,Japan,Facebook,Java,,,,,113
+I am a developer by profession,24,Man,India,YouTube,SQL,,,,,114
+I am a developer by profession,29,Man,Canada,Twitter,,,,,,115
+I am a developer by profession,34,Man,United States,Twitter,,,,,,116
+I am a developer by profession,29,Man,Israel,WhatsApp,JavaScript,Firebase,Linux,React.js,Notepad++,117
+I am a developer by profession,29,Man,Russian Federation,I don't use social media,Python,MongoDB,Windows,,Visual Studio Code,118
+I am a developer by profession,27,Man,Ireland,Facebook,,,,,,119
+I am a developer by profession,47,Man,United States,Facebook,,,,,,120
+I am a developer by profession,26,Man,Hong Kong (S.A.R.),YouTube,,,,,,121
+I am a developer by profession,32,Man,United Kingdom,Facebook,,,,,,122
+I am a developer by profession,23,Man,Ireland,Twitter,Bash/Shell/PowerShell,DynamoDB,AWS,Flask,PHPStorm,123
+I am a developer by profession,37,Man,United States,Reddit,Go,Elasticsearch,Docker,Laravel,Vim,124
+I am a developer by profession,27,Man,United States,I don't use social media,JavaScript,MariaDB,Kubernetes,React.js,Visual Studio Code,125
+I am a developer by profession,31,Man,Netherlands,Instagram,PHP,MySQL,,Vue.js,,126
+I am a developer by profession,39,Man,Guatemala,Twitter,Python,Redis,,Other(s):,,127
+I am a developer by profession,33,Man,Germany,I don't use social media,Ruby,Other(s):,,,,128
+I am a developer by profession,30,Man,Netherlands,Reddit,SQL,,,,,129
+I am a developer by profession,28,Man,Poland,Twitter,C++,Firebase,Android,ASP.NET,Android Studio,130
+I am a developer by profession,36,Woman,United States,Twitter,HTML/CSS,MySQL,Raspberry Pi,jQuery,Eclipse,131
+I am a developer by profession,24,Man,Pakistan,LinkedIn,PHP,SQLite,,,Notepad++,132
+I am a developer by profession,31,Man,United States,I don't use social media,Python,,,,PyCharm,133
+I am a developer by profession,22,Woman,United States,Reddit,SQL,,,,Vim,134
+I am a developer by profession,24,Man,Poland,Reddit,VBA,,,,Visual Studio,135
+I am a developer by profession,30,Man,Netherlands,YouTube,,,,,Visual Studio Code,136
+I am a developer by profession,32,Woman,United States,Facebook,Bash/Shell/PowerShell,MariaDB,Android,Django,Atom,137
+I am a developer by profession,23,Man,United States,Twitter,C++,Microsoft SQL Server,Linux,jQuery,NetBeans,138
+I am a developer by profession,34,Man,Bangladesh,Facebook,Go,MySQL,MacOS,React.js,Notepad++,139
+I am a developer by profession,34,Man,Spain,I don't use social media,HTML/CSS,Oracle,Microsoft Azure,,PHPStorm,140
+I am a developer by profession,31,Man,Israel,WhatsApp,Java,PostgreSQL,Raspberry Pi,,PyCharm,141
+I am a developer by profession,47,Man,Ukraine,Twitter,JavaScript,,WordPress,,Sublime Text,142
+I am a developer by profession,35,Man,France,Instagram,Kotlin,,Other(s):,,Vim,143
+I am a developer by profession,24,Man,Germany,Twitter,PHP,,,,Visual Studio,144
+I am a developer by profession,33,Man,Russian Federation,YouTube,Python,,,,Visual Studio Code,145
+I am a developer by profession,30,Man,Israel,WhatsApp,Ruby,,,,Xcode,146
+I am a developer by profession,30,Man,Sweden,I don't use social media,SQL,,,,,147
+I am a developer by profession,35,Man,Mexico,Twitter,VBA,,,,,148
+I am a developer by profession,23,Man,France,YouTube,C,DynamoDB,AWS,Angular/Angular.js,IntelliJ,149
+I am a developer by profession,33,Man,Brazil,WhatsApp,C#,Microsoft SQL Server,,Express,Visual Studio Code,150
+I am a developer by profession,25,Man,France,Facebook,HTML/CSS,MySQL,,jQuery,,151
+I am a developer by profession,26,Man,United States,I don't use social media,Java,PostgreSQL,,,,152
+I am a developer by profession,25,Man,Poland,,JavaScript,,,,,153
+I am a developer by profession,29,Man,Pakistan,WhatsApp,PHP,,,,,154
+I am a developer by profession,33,Man,France,Twitter,Python,,,,,155
+I am a developer by profession,40,Man,United States,YouTube,SQL,,,,,156
+I am a developer by profession,25,Man,Egypt,Facebook,VBA,,,,,157
+I am a developer by profession,37,Man,Brazil,WhatsApp,HTML/CSS,Elasticsearch,AWS,Express,Vim,158
+I am a developer by profession,26,Man,India,Twitter,Java,Firebase,Google Cloud Platform,jQuery,,159
+I am a developer by profession,57,Man,Australia,Twitter,JavaScript,,Linux,React.js,,160
+I am a developer by profession,32,Man,Italy,I don't use social media,Python,,MacOS,Vue.js,,161
+I am a developer by profession,26,Man,France,I don't use social media,,,,,,162
+I am a developer by profession,28,Man,United States,YouTube,,,,,,163
+I am a developer by profession,27,Man,India,Facebook,,,,,,164
+I am a developer by profession,38,Man,United States,LinkedIn,,,,,,165
+I am a developer by profession,52,Man,United States,Facebook,,,,,,166
+I am a developer by profession,30,Man,United States,Reddit,,,,,,167
+I am a developer by profession,41,Man,Australia,LinkedIn,C#,Microsoft SQL Server,Windows,ASP.NET,Notepad++,168
+I am a developer by profession,48,Man,Hungary,I don't use social media,JavaScript,,,,Visual Studio Code,169
+I am a developer by profession,31,Man,United States,Reddit,SQL,,,,,170
+I am a developer by profession,49,Man,France,WhatsApp,,,,,,171
+I am a developer by profession,27,Man,India,YouTube,,,,,,172
+I am a developer by profession,30,Man,Spain,Instagram,HTML/CSS,MariaDB,Android,Laravel,Visual Studio Code,173
+I am a developer by profession,24,Man,India,Facebook,JavaScript,MySQL,Arduino,React.js,,174
+I am a developer by profession,32,Man,United States,Reddit,PHP,,AWS,,,175
+I am a developer by profession,43,Man,United States,Reddit,Python,,Linux,,,176
+I am a developer by profession,33,Man,Brazil,WhatsApp,SQL,,MacOS,,,177
+I am a developer by profession,35,Man,New Zealand,Twitter,VBA,,Raspberry Pi,,,178
+I am a developer by profession,44,Man,Sweden,Reddit,,,Windows,,,179
+I am a developer by profession,21,"Non-binary, genderqueer, or gender non-conforming",United States,Facebook,HTML/CSS,DynamoDB,AWS,Flask,Atom,180
+I am a developer by profession,27,Woman,Australia,WhatsApp,Java,,Linux,Spring,IntelliJ,181
+I am a developer by profession,28,Man,Switzerland,Instagram,JavaScript,,MacOS,,PyCharm,182
+I am a developer by profession,29,Woman,India,Facebook,Kotlin,,Raspberry Pi,,Sublime Text,183
+I am a developer by profession,32,Man,New Zealand,Instagram,Python,,,,,184
+I am a developer by profession,28,Man,United Kingdom,Reddit,Ruby,,,,,185
+I am a developer by profession,51,Man,United States,I don't use social media,HTML/CSS,MongoDB,Heroku,Express,Sublime Text,186
+I am a developer by profession,24,Woman,Hong Kong (S.A.R.),Facebook,JavaScript,,,React.js,Visual Studio Code,187
+I am a developer by profession,41,Man,United States,LinkedIn,,,,,,188
+I am a developer by profession,24,Man,United States,Reddit,,,,,,189
+I am a developer by profession,38,Man,United States,Reddit,,,,,,190
+I am a developer by profession,25,Man,Spain,WhatsApp,PHP,MariaDB,AWS,Other(s):,Notepad++,191
+I am a developer by profession,23,Man,Brazil,WhatsApp,SQL,MySQL,,,PHPStorm,192
+I am a developer by profession,28,Man,Germany,Instagram,HTML/CSS,MongoDB,Android,Express,Android Studio,193
+I am a developer by profession,31,Woman,Iran,WhatsApp,Java,,Raspberry Pi,jQuery,IntelliJ,194
+I am a developer by profession,29,Man,Serbia,YouTube,JavaScript,,,React.js,Visual Studio Code,195
+I am a developer by profession,24,Man,Australia,Reddit,Kotlin,,,Vue.js,,196
+I am a developer by profession,35,Man,United States,Facebook,Python,,,,,197
+I am a developer by profession,39,Man,New Zealand,YouTube,Bash/Shell/PowerShell,MongoDB,Docker,Angular/Angular.js,IntelliJ,198
+I am a developer by profession,32,Man,Germany,Facebook,C#,Microsoft SQL Server,Kubernetes,ASP.NET,PyCharm,199
+I am a developer by profession,37,Man,United States,Twitter,F#,,Linux,Flask,Visual Studio,200
+I am a developer by profession,29,Man,India,WhatsApp,Go,,Microsoft Azure,Vue.js,Visual Studio Code,201
+I am a developer by profession,23,Man,Russian Federation,VK –í–ö–æ–Ω—Ç–∞ÃÅ–∫—Ç–µ,HTML/CSS,,Windows,,,202
+I am a developer by profession,23,Man,Poland,Reddit,Java,,,,,203
+I am a developer by profession,28,Man,United Kingdom,WhatsApp,JavaScript,,,,,204
+I am a developer by profession,26,Woman,India,LinkedIn,Python,,,,,205
+I am a developer by profession,30,Man,India,YouTube,SQL,,,,,206
+I am a developer by profession,29,Man,France,Snapchat,TypeScript,,,,,207
+I am a developer by profession,46,Man,United States,Facebook,HTML/CSS,DynamoDB,AWS,Express,Sublime Text,208
+I am a developer by profession,22,Man,Poland,Reddit,JavaScript,Elasticsearch,Docker,React.js,Vim,209
+I am a developer by profession,31,Man,Poland,I don't use social media,,MongoDB,Google Cloud Platform,,Visual Studio Code,210
+I am a developer by profession,32,Man,Poland,I don't use social media,,,Linux,,,211
+I am a developer by profession,41,Man,France,Twitter,,,MacOS,,,212
+I am a developer by profession,25,Man,United States,Reddit,,,Slack,,,213
+I am a developer by profession,27,Man,Croatia,WhatsApp,C,Firebase,Android,ASP.NET,Android Studio,214
+I am a developer by profession,37,Man,United States,Twitter,C++,MySQL,Windows,,Visual Studio,215
+I am a developer by profession,23,Man,United States,Snapchat,C#,SQLite,,,,216
+I am a developer by profession,24,Man,India,WhatsApp,Java,,,,,217
+I am a developer by profession,31,Man,Russian Federation,YouTube,Kotlin,,,,,218
+I am a developer by profession,32,Man,Ukraine,YouTube,PHP,,,,,219
+I am a developer by profession,29,Man,South Korea,YouTube,SQL,,,,,220
+I am a developer by profession,20,Man,Switzerland,WhatsApp,Bash/Shell/PowerShell,MariaDB,Linux,Django,Coda,221
+I am a developer by profession,30,Man,United States,Reddit,C#,MongoDB,Windows,Express,IPython / Jupyter,222
+I am a developer by profession,40,Man,United States,Reddit,HTML/CSS,Microsoft SQL Server,,Flask,Notepad++,223
+I am a developer by profession,23,Man,India,WhatsApp,JavaScript,MySQL,,jQuery,Sublime Text,224
+I am a developer by profession,30,Woman,Canada,WhatsApp,PHP,Redis,,Vue.js,Vim,225
+I am a developer by profession,24,Man,Netherlands,YouTube,Python,SQLite,,,Visual Studio Code,226
+I am a developer by profession,25,Man,United States,Reddit,SQL,,,,,227
+I am a developer by profession,37,Man,Canada,Twitter,Bash/Shell/PowerShell,Microsoft SQL Server,Android,Django,Android Studio,228
+I am a developer by profession,42,Man,Sweden,Twitter,C,,AWS,React.js,PyCharm,229
+I am a developer by profession,25,Man,Netherlands,Facebook,C++,,Docker,Spring,Vim,230
+I am a developer by profession,24,Woman,Bulgaria,YouTube,C#,,iOS,,Visual Studio Code,231
+I am a developer by profession,36,Man,Germany,,Go,,Linux,,,232
+I am a developer by profession,24,Man,India,YouTube,HTML/CSS,,MacOS,,,233
+I am a developer by profession,23,Man,Canada,Reddit,Java,,Slack,,,234
+I am a developer by profession,20,Woman,Israel,I don't use social media,Python,,,,,235
+I am a developer by profession,40,Man,United States,Reddit,SQL,,,,,236
+I am a developer by profession,30,Woman,France,Reddit,Bash/Shell/PowerShell,DynamoDB,Android,React.js,Android Studio,237
+I am a developer by profession,21,Man,Brazil,Reddit,C#,Firebase,Docker,Ruby on Rails,IntelliJ,238
+I am a developer by profession,30,Woman,United States,Twitter,HTML/CSS,MySQL,Google Cloud Platform,,RubyMine,239
+I am a developer by profession,28,Man,China,WeChat ÂæÆ‰ø°,Java,SQLite,iOS,,Vim,240
+I am a developer by profession,28,Man,United States,Instagram,JavaScript,,,,Visual Studio Code,241
